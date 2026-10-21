@@ -1,0 +1,83 @@
+Applicant Name,Email,Phone,Domain Applied,University,Application Date,Status
+Ahmed Khan,AHMED.KHAN1@EXAMPLE.COM,03442868828,web dev,MUET,24/02/2026,Rejected
+ Omar Memon  ,omar.memon2@example.com,03966629388,WEB DEV,University of Sindh,03/04/2026,Under Review
+Laiba Shaikh,laiba.shaikh3@example.com,0308-5329037,webdev,NED University,14/04/2026,Selected
+,sana.ahmed4@example.com,03031429110,data science,University of Karachi,09/03/2026,Under Review
+Fatima Memon,fatima.memon5@example.com,03160992979,DATA SCIENCE,University of Karachi,28/06/2026,Rejected
+Noor Khan,,03781971316,cyber security,SZABIST,03/09/2026,Selected
+Raza Soomro,raza.soomro7@example.com,03935808537,CyberSecurity,University of Sindh,22/04/2026,Selected
+Sara Ali,sara.ali8@example.com,03161019678,artificial intelligence,,21/06/2026,Under Review
+Daniyal Soomro,daniyal.soomro9@example.com,0339-9949389,AI,University of Sindh,20/11/2026,Under Review
+Omar Ali,omar.ali10@example.com,03272043515,app dev,University of Karachi,21/12/2026,
+Bilal Soomro,bilal.soomro11@example.com,03040742311,App Development,University of Karachi,13/05/2026,Under Review
+ Zara Shaikh  ,zara.shaikh12@example.com,03538538251,Artificial Intelligence,SZABIST,21/08/2026,Under Review
+Noor Shah,NOOR.SHAH13@EXAMPLE.COM,03385345555,App Development,University of Karachi,24/10/2026, selected 
+Sana Qureshi,sana.qureshi14@example.com,03539436733,Data Science,NED University,16/02/2026,SELECTED
+,ahmed.shah15@example.com,03266661351,App Development,University of Sindh,13/07/2026,under review
+Iqra Laghari,iqra.laghari16@example.com,03484252722,Web Development,University of Sindh,22/09/2026,rejected
+Fatima Memon,fatima.memon17@example.com,0346-8353204,Data Science,SZABIST,01/12/2026,UNDER REVIEW
+Noor Laghari,noor.laghari18@example.com,03278139880,Web Development,University of Karachi,27/11/2026,selected
+Raza Ali,raza.ali19@example.com,03260185867,Data Science,NED University,2026-05-12,Under Review
+Raza Soomro,raza.soomro20@example.com,03712614124,Web Development,University of Karachi,32/01/2026,Under Review
+Ali Ali,ALI.ALI21@EXAMPLE.COM,03920570592,Web Development,SZABIST,not-a-date,Rejected
+Hina Shah,hina.shah22@example.com,03783793389,Data Science,University of Karachi,17/10/2026,Selected
+Zara Laghari,,03351837852,Artificial Intelligence,University of Karachi,15/09/2026,Selected
+Ahmed Ali,ahmed.ali24@example.com,03318593410,Cyber Security,University of Sindh,19/09/2026,Under Review
+Sana Ali,sana.ali25@example.com,03019528530,Web Development,MUET,03/01/2026,Selected
+ Sara Laghari  ,sara.laghari26@example.com,03347376585,Artificial Intelligence,MUET,18/03/2026,Rejected
+Sana Shaikh,sana.shaikh27@example.com,03742614537,Artificial Intelligence,SZABIST,07/02/2026,Under Review
+Saad Soomro,saad.soomro28@example.com,03665177213,Artificial Intelligence,University of Sindh,22/11/2026,Rejected
+Ahmed Khan,ahmed.khan29@example.com,03655540424,Web Development,MUET,07/04/2026,Rejected
+Iqra Shah,iqra.shah30@example.com,03634627347,Cyber Security,,08/02/2026,Selected
+Omar Memon,omar.memon31@example.com,0309-7529405,App Development,University of Sindh,03/04/2026,Under Review
+Saad Siddiqui,saad.siddiqui32@example.com,03738688676,Artificial Intelligence,University of Sindh,06/07/2026,Under Review
+Maham Ahmed,maham.ahmed33@example.com,03748285503,Artificial Intelligence,NED University,22/12/2026,Selected
+Hina Ali,hina.ali34@example.com,03439219319,Web Development,NED University,24/09/2026,
+Fatima Khan,fatima.khan35@example.com,03088406989,Artificial Intelligence,NED University,28/09/2026,Under Review
+Ali Laghari,ali.laghari36@example.com,03134941004,Web Development,NED University,03/11/2026,Under Review
+Maham Memon,maham.memon37@example.com,03943046464,App Development,NED University,02/10/2026,Under Review
+Saad Shaikh,saad.shaikh38@example.com,03980166708,Cyber Security,University of Karachi,07/11/2026,Rejected
+Fatima Ali,fatima.ali39@example.com,03463121477,Data Science,University of Karachi,15/06/2026,Under Review
+Ayesha Siddiqui,ayesha.siddiqui40@example.com,03985563727,Web Development,University of Sindh,18/04/2026,Rejected
+ Noor Shah  ,noor.shah41@example.com,03519233013,Data Science,University of Karachi,10/03/2026,Selected
+Omar Ahmed,OMAR.AHMED42@EXAMPLE.COM,03997775215,App Development,University of Sindh,22/09/2026,Selected
+Ahmed Shah,ahmed.shah43@example.com,03425492573,Web Development,NED University,05/05/2026,Selected
+Raza Ali,raza.ali44@example.com,03537326368,Cyber Security,NED University,16/05/2026,Under Review
+Sara Qureshi,sara.qureshi45@example.com,03415917225,Web Development,University of Karachi,25/03/2026,Rejected
+Noor Shah,,03784045292,Artificial Intelligence,NED University,01/02/2026,Under Review
+Hina Laghari,hina.laghari47@example.com,03059555330,App Development,NED University,05/07/2026,Under Review
+Ali Ahmed,ali.ahmed48@example.com,03515354599,Cyber Security,MUET,22/04/2026,Rejected
+Ahmed Soomro,ahmed.soomro49@example.com,0386-4543049,App Development,MUET,08/03/2026,Under Review
+Saad Khan,saad.khan50@example.com,03254585178,Artificial Intelligence,MUET,09/03/2026,Rejected
+Ahmed Qureshi,ahmed.qureshi51@example.com,03073174945,Data Science,MUET,27/08/2026,Selected
+Hamza Ali,hamza.ali52@example.com,03313176186,Data Science,SZABIST,11/05/2026,Under Review
+ Noor Soomro  ,noor.soomro53@example.com,03863643924,App Development,University of Karachi,01/02/2026,Selected
+Usman Shaikh,usman.shaikh54@example.com,03415134794,Web Development,NED University,14/06/2026,Rejected
+Fatima Qureshi,fatima.qureshi55@example.com,03978642041,Web Development,SZABIST,19/04/2026,Selected
+Ali Qureshi,ali.qureshi56@example.com,03079782527,App Development,MUET,12/07/2026,Under Review
+Fatima Shaikh,fatima.shaikh57@example.com,03599038359,Web Development,University of Karachi,17/05/2026,Rejected
+Saad Soomro,SAAD.SOOMRO58@EXAMPLE.COM,03649682169,App Development,MUET,07/07/2026,Rejected
+Maham Shah,maham.shah59@example.com,03986384014,Cyber Security,SZABIST,18/01/2026,Selected
+Hamza Ali,hamza.ali60@example.com,03687844239,App Development,University of Karachi,15/08/2026,Selected
+Zara Laghari,zara.laghari61@example.com,03732775593,Web Development,,17/11/2026,Rejected
+Raza Soomro,raza.soomro62@example.com,03141523529,Cyber Security,MUET,26/04/2026,Under Review
+Ayesha Khan,ayesha.khan63@example.com,03373771720,App Development,University of Sindh,15/07/2026,Rejected
+Sana Ali,sana.ali64@example.com,03676354180,Artificial Intelligence,MUET,05/11/2026,Rejected
+Ayesha Memon,ayesha.memon65@example.com,03639372360,Data Science,NED University,15/01/2026,
+Bilal Memon,bilal.memon66@example.com,03727896471,Artificial Intelligence,NED University,18/10/2026,Selected
+Iqra Shaikh,iqra.shaikh67@example.com,03867276174,App Development,SZABIST,06/12/2026,Selected
+Iqra Ahmed,iqra.ahmed68@example.com,03395585469,Cyber Security,NED University,16/11/2026,Under Review
+Noor Siddiqui,noor.siddiqui69@example.com,03148349783,Data Science,University of Karachi,11/06/2026,Rejected
+Sara Shah,sara.shah70@example.com,03241039390,Artificial Intelligence,MUET,23/04/2026,Under Review
+Saad Qureshi,saad.qureshi71@example.com,03582828034,Artificial Intelligence,SZABIST,02/04/2026,Selected
+Maham Shaikh,maham.shaikh72@example.com,03087267850,Artificial Intelligence,,01/06/2026,Selected
+Maham Qureshi,maham.qureshi73@example.com,03883300637,App Development,MUET,16/04/2026,Selected
+Saad Siddiqui,saad.siddiqui74@example.com,03062191530,Cyber Security,SZABIST,24/03/2026,Selected
+Hina Shaikh,hina.shaikh75@example.com,03813619375,Artificial Intelligence,NED University,19/11/2026,Under Review
+Sara Qureshi,sara.qureshi76@example.com,03271968116,Data Science,University of Sindh,09/07/2026,Selected
+Zara Siddiqui,zara.siddiqui77@example.com,03555298556,Artificial Intelligence,University of Karachi,25/07/2026,Selected
+Sara Siddiqui,sara.siddiqui78@example.com,03082399599,Web Development,University of Karachi,08/11/2026,Under Review
+Ali Khan,ali.khan79@example.com,03336757737,Web Development,NED University,05/04/2026,Under Review
+Hassan Memon,hassan.memon80@example.com,03939254705,Artificial Intelligence,University of Karachi,25/06/2026,Under Review
+Raza Soomro,raza.soomro7@example.com,03935808537,CyberSecurity,University of Sindh,22/04/2026,Selected
+Bilal Soomro ,bilal.soomro11@example.com,03040742311,App Development,University of Karachi,13/05/2026,Under Review
